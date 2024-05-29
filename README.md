@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yds05238
 - 👀 I’m interested in Software Engineering and Development
-- 🌱 I’m currently learning systems, cloud-computing and game development
+- 🌱 I’m currently learning systems, cloud-computing and fullstack development.
 - 📫 How to reach me richardyoon87@gmail.com or jmokyoon.com
 
 <!---
