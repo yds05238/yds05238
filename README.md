@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yds05238
-- 👀 I’m interested in Software Engineering and Development
-- 🌱 I’m currently learning systems, cloud-computing and fullstack development.
+- 👀 I am a Software Engineer with a background in distributed systems, cloud computing, and full-stack development. 
 - 📫 How to reach me richardyoon87@gmail.com or jmokyoon.com
 
 <!---
